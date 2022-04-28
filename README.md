@@ -1,4 +1,6 @@
 # 2chContentDownloader
 <br>
+![image](https://user-images.githubusercontent.com/18138614/165834633-68e65e11-b902-47c1-8bd2-fb37418f554d.png)
+<br>
 Добить настройки<br>
-![image](https://user-images.githubusercontent.com/18138614/165834576-bed0c624-1164-4892-920b-8e42dd90dfd6.png)
+
