@@ -1,0 +1,2 @@
+class SQLwork():
+	pass

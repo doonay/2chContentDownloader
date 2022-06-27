@@ -1,0 +1,2 @@
+python validator.py
+pause
