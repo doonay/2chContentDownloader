@@ -1,0 +1,2 @@
+python filemanager.py
+pause
